@@ -7,7 +7,7 @@
 This repository contains information about 232 countries in `JSON` format, including country names, flags, maps, capital cities and more.
 
 ### Example
-```
+```json
 {
   "slug": "france",
   "name": {
