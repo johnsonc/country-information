@@ -32,7 +32,7 @@ This repository contains information about 232 countries in `JSON` format, inclu
   "location": {
     "region": "EUROPE",
     "subregion": "WESTERN_EUROPE",
-    "geoJson": "https://github.com/the-basetrip/country-information/blob/master/dist/maps/FR.geo.json"
+    "geoJson": "https://raw.githubusercontent.com/the-basetrip/country-information/master/dist/maps/FR.geo.json"
   },
   "capital": {
     "name": "Paris",
@@ -48,8 +48,8 @@ This repository contains information about 232 countries in `JSON` format, inclu
     "SCHENGEN_AREA"
   ],
   "flag": {
-    "png": "https://github.com/the-basetrip/country-information/blob/master/dist/flags/FR.png",
-    "svg": "https://github.com/the-basetrip/country-information/blob/master/dist/flags/FR.svg",
+    "png": "https://raw.githubusercontent.com/the-basetrip/country-information/master/dist/flags/FR.png",
+    "svg": "https://raw.githubusercontent.com/the-basetrip/country-information/master/dist/flags/FR.svg",
     "emoji": "🇫🇷"
   },
   "isSovereignState": true,
