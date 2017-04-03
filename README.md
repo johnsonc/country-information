@@ -72,7 +72,7 @@ This repository contains information about 232 countries in `JSON` format, inclu
 | languages.code.alpha2 | String | Language [ISO 639-1](https://en.wikipedia.org/wiki/ISO_639-1) two-letter code
 | languages.code.alpha3 | String | Language [ISO 639-3](https://en.wikipedia.org/wiki/ISO_639-3) three-letter code
 | location.region | String | Country region (`AFRICA`, `AMERICAS`, `ASIA`, `EUROPE` or `OTHER`)
-| location.subregion | String | Country subregion (`AUSTRALIA_NEW_ZEALAND`, `CARIBBEAN`, `CENTRAL_AMERICA`, `CENTRAL_ASIA`, `EASTERN_AFRICA`, `EASTERN_ASIA`, `EASTERN_EUROPE`, `MELANESIA`, `MICRONESIA`, `MIDDLE_AFRICA`, `NORTHERN_AFRICA`, `NORTHERN_AMERICA`, `NORTHERN_EUROPE`, `POLYNESIA`, `SOUTH_AMERICA`, `SOUTH_EASTERN_ASIA`, `SOUTHERN_AFRICA`, `SOUTHERN_ASIA`, `SOUTHERN_EUROPE`, `WESTERN_AFRICA`, `WESTERN_ASIA`, `WESTERN_EUROPE`)
+| location.subregion | String | Country subregion (`AUSTRALIA_AND_NEW_ZEALAND`, `CARIBBEAN`, `CENTRAL_AMERICA`, `CENTRAL_ASIA`, `EASTERN_AFRICA`, `EASTERN_ASIA`, `EASTERN_EUROPE`, `MELANESIA`, `MICRONESIA`, `MIDDLE_AFRICA`, `NORTHERN_AFRICA`, `NORTHERN_AMERICA`, `NORTHERN_EUROPE`, `POLYNESIA`, `SOUTH_AMERICA`, `SOUTH_EASTERN_ASIA`, `SOUTHERN_AFRICA`, `SOUTHERN_ASIA`, `SOUTHERN_EUROPE`, `WESTERN_AFRICA`, `WESTERN_ASIA`, `WESTERN_EUROPE`)
 | location.geoJson | String | URL of GeoJSON data
 | capital.name | String | Name of the capital city
 | capital.coordinates.latitude | double | Latitude in decimal degrees
